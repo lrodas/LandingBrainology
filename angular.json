@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "LandingBrainology"
+  "defaultProject": "LandingBrainology",
+  "cli": {
+    "analytics": "dcc2acc4-21b3-4eae-8a5b-2de2bb497deb"
+  }
 }
